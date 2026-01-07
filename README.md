@@ -1,1 +1,1 @@
-# Aplikasi-Web-solusi-spnl-dg-metode-Newton-Raphson
+# spnl-newton-raphson-web
