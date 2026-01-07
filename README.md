@@ -1,4 +1,3 @@
-# spnl-newton-raphson-web
 ## Metode Newton-Raphson untuk SPNL
 Aplikasi ini menggunakan iterasi numerik untuk menemukan akar sistem persamaan non-linear. 
 
